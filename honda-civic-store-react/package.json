@@ -8,8 +8,7 @@
     "test": "vitest --environment jsdom",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "test": "vitest --environment jsdom"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
